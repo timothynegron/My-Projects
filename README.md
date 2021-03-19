@@ -13,11 +13,11 @@ skill level as a coder and learn about new technologies.
 
 ---
 
-## `Project Rhythm Crowd`
+### `Project Rhythm Crowd`
 
 A social media music platform for independent music artist.
 
-Java | XML | RecyclerView | Fragments | Firebase | Cloud Firestore | Firebase Authentication
+RecyclerView | **Cloud Firestore** | **Firebase Authentication** | Java | XML |  Fragments | 
 
 Source Code: [Project Rhythm Crowd Repo](https://github.com/timothynegron/project-rhythm-crowd)
 
@@ -29,7 +29,13 @@ Source Code: [Project Rhythm Crowd Repo](https://github.com/timothynegron/projec
 ---
 
 
-## `Countries Database Interface`
+### `Countries Database Interface`
+
+A WPF graphical interface that gives users access to a SQL server database containing data related to countries.
+
+WPF | **SQL Server** | C# | XAML | DLL | OpenFileDialog
+
+![](https://github.com/timothynegron/country-db-interface/blob/main/assets/country-database-interface-1.PNG)
 
 ---
 

@@ -1,6 +1,6 @@
-# `Timothy Negron - Projects`
+# Timothy Negron - Projects
 
-## `About Me`
+## About Me
 
 Hello, my name is Timothy Negron. I love to write code. I was born and raised in the Bronx, NY. I joined the U.S. Army after High School and served for over 6 years. During my service, I deployed to Afghanistan twice in support of Operation Enduring Freedom
 and earned the rank of Sergeant. After the Army, I pursued a  Bachelor of Science in Computer Programming and Information Systems. I graduated with Honor's and then earned a Cisco Certified Network Associate Routing and Switching certification. I'm now focusing on creating projects so that I can increase my skill level as a coder and learn about new technologies.
@@ -18,7 +18,7 @@ and earned the rank of Sergeant. After the Army, I pursued a  Bachelor of Scienc
 
 ---
 
-## `Project Rhythm Crowd`
+## Project Rhythm Crowd
 
 * A social media music platform for independent music artist.
 * Source: [Repository - Project Rhythm Crowd](https://github.com/timothynegron/project-rhythm-crowd)
@@ -36,7 +36,7 @@ RecyclerView | **Cloud Firestore** | **Firebase Authentication** | Java | XML | 
 ---
 
 
-## `Countries Database Interface`
+## Countries Database Interface
 
 * A WPF graphical interface that gives users access to a SQL server database containing data related to countries.
 * Source: [Repository - Countries DB Interface](https://github.com/timothynegron/country-db-interface)
@@ -47,7 +47,7 @@ WPF | **SQL Server** | C# | XAML | JSON | DLL | OpenFileDialog |
 
 ---
 
-## `Copy Monster Front Page`
+## Copy Monster Front Page
 
 * Used HTML and CSS to copy Monster's entire front page.
 * Source: [Repository - Monster Front Page](https://github.com/timothynegron/copy-monster-front-page)

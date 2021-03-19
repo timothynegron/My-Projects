@@ -16,7 +16,9 @@
 * Source: [Repository - Project Rhythm Crowd](https://github.com/timothynegron/project-rhythm-crowd)
 * Built With: RecyclerView / **Cloud Firestore** / **Firebase Authentication** / Java / XML /  Fragments 
 
-<div style="display: flex; justify-content: space-around">
+<!-- style="display: flex; justify-content: space-around" -->
+
+<div style="display: block; margin-left: auto;margin-right: auto; width: 68%; background-color: blue">
     <img src="assets/sign-in.png" width=160/>
     <img src="assets/global-feed.png" width=160/>
     <img src="assets/comments.png" width=160>
@@ -53,7 +55,7 @@
 **A WPF interface that gives users access to a dataset related to countries that are stored on a JSON file.**
 
 * Source: [Repository - Country JSON Interface](https://github.com/timothynegron/country-json-interface)
-* Built With: C# / XAML / WPF / DLL / ListBox / JSON Serializer and Deserializer / OpenFileDialog
+* Built With: C# / XAML / WPF / DLL / ListBox / **JSON Serializer and Deserializer** / OpenFileDialog
 
 <img src="assets/wpf-2-image.png"/>
 
@@ -67,8 +69,8 @@
 * Web Link: [Twitter Gridder](https://timothynegron.github.io/twitter-gridder/)
 * Built With: **CSS Grid** / HTML5 / CSS3
 
-<div style="display: block;margin-left: auto;margin-right: auto; width: 50%;">
-    <img src="assets/twitter-image.png" width=200 style="align-self: center">
+<div style="display: block;margin-left: auto; margin-right: auto; width: 50%;">
+    <img src="assets/twitter-image.png" width=200>
 </div>
 
 

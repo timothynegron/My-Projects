@@ -1,6 +1,6 @@
 # I'm Timothy Negron
 
-<div style="display: flex; justify-content: space-around">
+<div style="display: flex; justify-content: space-around; align-items: center">
 
 <img src="assets/tim.jpeg" style="border-radius: 5%" width=110/>
     <div style="width: 275px">

@@ -1,8 +1,8 @@
 # I'm Timothy Negron
 
 <div style="display: flex; align-items: center">
-<img src="assets/tim.jpeg" style="margin-left: 2vh" width=120/>
-    <div style="width: 300px; margin-left: 2vh">
+<img src="assets/tim.jpeg" style="margin-left: 2vh" width=150/>
+    <div style="width: 350px; margin-left: 2vh; font-size: 14pt">
         I love to write code. It's my dream to be a part of a team that builds computer applications. This is a collection of stuff I've made with code.
     </div>
 </div>

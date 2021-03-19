@@ -35,7 +35,7 @@ RecyclerView | **Cloud Firestore** | **Firebase Authentication** | Java | XML | 
 
 WPF | **SQL Server** | C# | XAML | DLL | OpenFileDialog |
 
-<img src="assets/wpf-image.png" />
+<img src="assets/wpf-image.png" width=780/>
 
 ---
 
@@ -45,8 +45,10 @@ WPF | **SQL Server** | C# | XAML | DLL | OpenFileDialog |
 * Source: [Repository - Monster Front Page](https://github.com/timothynegron/copy-monster-front-page)
 * Web Link: [Copy Monster Front Page](https://timothynegron.github.io/copy-monster-front-page/)
 
+HTML | CSS | **Flexbox** |
+
 <img src="assets/monster-image.png"/>
 
 ---
 
-This is a temporary holding place for my projects till my website is complete.
+### `

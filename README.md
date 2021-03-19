@@ -18,7 +18,7 @@
 
 <!-- style="display: flex; justify-content: space-around" -->
 
-<div style="display: block; margin-left: auto;margin-right: auto; width: 68%; background-color: blue">
+<div style="display: block; margin-left: auto;margin-right: auto; width: 68%;">
     <img src="assets/sign-in.png" width=160/>
     <img src="assets/global-feed.png" width=160/>
     <img src="assets/comments.png" width=160>

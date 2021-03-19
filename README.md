@@ -30,12 +30,22 @@ RecyclerView | **Cloud Firestore** | **Firebase Authentication** | Java | XML | 
 
 ### `Countries Database Interface`
 
-* **A WPF graphical interface that gives users access to a SQL server database containing data related to countries.**
-* Source: [Countries Database Interface Repo](https://github.com/timothynegron/country-db-interface)
+* A WPF graphical interface that gives users access to a SQL server database containing data related to countries.
+* Source: [Repository](https://github.com/timothynegron/country-db-interface)
 
 WPF | **SQL Server** | C# | XAML | DLL | OpenFileDialog |
 
 <img src="assets/wpf-image.png" />
+
+---
+
+### `Copy Monster Front Page`
+
+* Used HTML and CSS to copy Monster's entire front page.
+* Source: [Repository](https://github.com/timothynegron/copy-monster-front-page)
+* Web Link: [Copy Monster Front Page](https://timothynegron.github.io/copy-monster-front-page/)
+
+<img src="assets/monster-image.png"/>
 
 ---
 

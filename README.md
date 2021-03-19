@@ -13,7 +13,7 @@ skill level as a coder and learn about new technologies.
 
 ---
 
-### `Project Rhythm Crowd`
+## `Project Rhythm Crowd`
 
 A social media music platform for independent music artist.
 
@@ -26,10 +26,10 @@ Source Code: [Project Rhythm Crowd Repo](https://github.com/timothynegron/projec
 <img src="assets/comments.png" width=125>
 <img src="assets/sign-up.png" width=125/>
 
+---
 
 
-
-### `Countries Database Interface`
+## `Countries Database Interface`
 
 ---
 

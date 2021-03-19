@@ -1,4 +1,4 @@
-<!-- # Timothy Negron - Projects -->
+# Timothy Negron - Projects
 
 ## About Me
 
@@ -22,8 +22,7 @@ and earned the rank of Sergeant. After the Army, I pursued a  Bachelor of Scienc
 
 * A social media music platform for independent music artist.
 * Source: [Repository - Project Rhythm Crowd](https://github.com/timothynegron/project-rhythm-crowd)
-
-RecyclerView | **Cloud Firestore** | **Firebase Authentication** | Java | XML |  Fragments | 
+* RecyclerView | **Cloud Firestore** | **Firebase Authentication** | Java | XML |  Fragments | 
 
 <div style="display: flex; justify-content: space-around">
     <img src="assets/sign-in.png" width=160/>
@@ -40,8 +39,7 @@ RecyclerView | **Cloud Firestore** | **Firebase Authentication** | Java | XML | 
 
 * A WPF graphical interface that gives users access to a SQL server database containing data related to countries.
 * Source: [Repository - Countries DB Interface](https://github.com/timothynegron/country-db-interface)
-
-WPF | **SQL Server** | C# | XAML | JSON | DLL | OpenFileDialog |
+* WPF | **SQL Server** | C# | XAML | JSON | DLL | OpenFileDialog |
 
 <img src="assets/wpf-image.png" width=780/>
 

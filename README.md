@@ -48,12 +48,14 @@
 
 ---
 
-## Country JSON Dataset Interface
+## Countries JSON Dataset Interface
 
 **A WPF interface that gives users access to a dataset related to countries that are stored on a JSON file.**
 
 * Source: [Repository - Country JSON Interface](https://github.com/timothynegron/country-json-interface)
 * Built With: C# / XAML / WPF / DLL / ListBox / JSON Serializer and Deserializer / OpenFileDialog
+
+<img src="assets/wpf-2-image.PNG"/>
 
 ---
 

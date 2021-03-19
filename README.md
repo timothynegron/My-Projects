@@ -14,7 +14,7 @@
 
 **A social media music platform for independent music artist.**
 * Source: [Repository - Project Rhythm Crowd](https://github.com/timothynegron/project-rhythm-crowd)
-* RecyclerView / **Cloud Firestore** / **Firebase Authentication** / Java / XML /  Fragments 
+* Built With: RecyclerView / **Cloud Firestore** / **Firebase Authentication** / Java / XML /  Fragments 
 
 <div style="display: flex; justify-content: space-around">
     <img src="assets/sign-in.png" width=160/>
@@ -31,7 +31,7 @@
 
 **A WPF graphical interface that gives users access to a SQL server database containing data related to countries.**
 * Source: [Repository - Countries DB Interface](https://github.com/timothynegron/country-db-interface)
-* WPF / **SQL Server** / C# / XAML / JSON / DLL / OpenFileDialog
+* Built With: WPF / **SQL Server** / C# / XAML / JSON / DLL / OpenFileDialog
 
 <img src="assets/wpf-image.png" width=780/>
 
@@ -39,7 +39,7 @@
 
 ## Copy Monster Front Page
 
-**Used HTML and CSS to copy Monster's entire front page.**
+**I used HTML and CSS to copy Monster's entire front page.**
 * Source: [Repository - Monster Front Page](https://github.com/timothynegron/copy-monster-front-page)
 * Web Link: [Copy Monster Front Page](https://timothynegron.github.io/copy-monster-front-page/)
 * HTML / CSS / **Flexbox**
@@ -48,14 +48,12 @@
 
 ---
 
-## Tic Tac Toe
+## Country JSON Dataset Interface
 
-**I used Java to make a Tic Tac Toe game.**
+**A WPF interface that gives users access to a dataset related to countries that are stored on a JSON file.**
 
-* Source: [Repository - Tic Tac Toe]()
-* Built With: Java / JFrame / JPanel
-
-<img src="assets/ttt.png"/>
+* Source: [Repository - Country JSON Interface](https://github.com/timothynegron/country-json-interface)
+* Built With: C# / XAML / WPF / DLL / ListBox / JSON Serializer and Deserializer / OpenFileDialog
 
 ---
 
@@ -74,6 +72,28 @@
 
 ---
 
+### Bank App
+
+**A simple android bank app for experimenting with RecyclerView and Data Singleton.**
+
+* Source: [Repository - Bank App Android](https://github.com/timothynegron/bank-app-android)
+* Built With: Java / Android Studio / RecyclerView / Fragments / Data Singleton
+
+<img src="assets/bank-app.png"/>
+
+---
+
+## Tic Tac Toe
+
+**I used Java to make a Tic Tac Toe game.**
+
+* Source: [Repository - Tic Tac Toe]()
+* Built With: Java / JFrame / JPanel
+
+<img src="assets/ttt.png"/>
+
+---
+
 ## Card Matching
 
 **A card matching game built with Java.**
@@ -82,3 +102,6 @@
 * Built With:
 
 <!-- <img src="assets/card-image.png>"/> -->
+
+---
+

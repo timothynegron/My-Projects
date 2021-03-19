@@ -14,8 +14,8 @@ and earned the rank of Sergeant. After the Army, I pursued a  Bachelor of Scienc
 | [Project Rhythm Crowd](https://github.com/timothynegron/project-rhythm-crowd)   |                                                                                     |
 | [Countries DB Interface](https://github.com/timothynegron/country-db-interface) |                                                                                     |
 | [Monster Front Page](https://github.com/timothynegron/copy-monster-front-page)  | [Copy Monster Front Page](https://timothynegron.github.io/copy-monster-front-page/) |
-|                                                                                 |                                                                                     |
-|                                                                                 |                                                                                     |
+
+
 ---
 
 ## `Project Rhythm Crowd`
@@ -25,10 +25,13 @@ and earned the rank of Sergeant. After the Army, I pursued a  Bachelor of Scienc
 
 RecyclerView | **Cloud Firestore** | **Firebase Authentication** | Java | XML |  Fragments | 
 
-<img src="assets/sign-in.png" width=160/>
-<img src="assets/global-feed.png" width=160/>
-<img src="assets/comments.png" width=160>
-<!-- <img src="assets/sign-up.png" width=160/> -->
+<div style="display: flex; justify-content: space-around">
+    <img src="assets/sign-in.png" width=160/>
+    <img src="assets/global-feed.png" width=160/>
+    <img src="assets/comments.png" width=160>
+    <!-- <img src="assets/sign-up.png" width=160/> -->
+</div>
+
 
 ---
 

@@ -16,7 +16,7 @@ skill level as a coder and learn about new technologies.
 ### `Project Rhythm Crowd`
 
 * A social media music platform for independent music artist.
-* Source: [Project Rhythm Crowd Repo](https://github.com/timothynegron/project-rhythm-crowd)
+* Source: [Repository - Project Rhythm Crowd](https://github.com/timothynegron/project-rhythm-crowd)
 
 RecyclerView | **Cloud Firestore** | **Firebase Authentication** | Java | XML |  Fragments | 
 
@@ -31,7 +31,7 @@ RecyclerView | **Cloud Firestore** | **Firebase Authentication** | Java | XML | 
 ### `Countries Database Interface`
 
 * A WPF graphical interface that gives users access to a SQL server database containing data related to countries.
-* Source: [Repository](https://github.com/timothynegron/country-db-interface)
+* Source: [Repository - Countries DB Interface](https://github.com/timothynegron/country-db-interface)
 
 WPF | **SQL Server** | C# | XAML | DLL | OpenFileDialog |
 
@@ -42,7 +42,7 @@ WPF | **SQL Server** | C# | XAML | DLL | OpenFileDialog |
 ### `Copy Monster Front Page`
 
 * Used HTML and CSS to copy Monster's entire front page.
-* Source: [Repository](https://github.com/timothynegron/copy-monster-front-page)
+* Source: [Repository - Monster Front Page](https://github.com/timothynegron/copy-monster-front-page)
 * Web Link: [Copy Monster Front Page](https://timothynegron.github.io/copy-monster-front-page/)
 
 <img src="assets/monster-image.png"/>

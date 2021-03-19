@@ -1,4 +1,4 @@
-# Timothy Negron's Portfolio
+# `Timothy Negron's Portfolio`
 
 ### `About Me`
 
@@ -17,8 +17,17 @@ skill level as a coder and learn about new technologies.
 
 **Project Rhythm Crowd**
 
+A social media music application for independent music artist.
 
 
+
+| Built With |                 |                         |
+| ---------- | --------------- | ----------------------- |
+| Java       | RecyclerView    | Fragments               |
+| XML        | Cloud Firestore | Firebase Authentication |
+
+
+**Countries Database Interface**
 
 ---
 

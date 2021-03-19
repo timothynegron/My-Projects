@@ -1,4 +1,4 @@
-# Timothy Negron - Projects
+<!-- # Timothy Negron - Projects -->
 
 ## About Me
 

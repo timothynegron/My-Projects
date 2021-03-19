@@ -55,7 +55,7 @@
 * Source: [Repository - Country JSON Interface](https://github.com/timothynegron/country-json-interface)
 * Built With: C# / XAML / WPF / DLL / ListBox / JSON Serializer and Deserializer / OpenFileDialog
 
-<img src="assets/wpf-2-image.PNG"/>
+<img src="assets/wpf-2-image.png"/>
 
 ---
 

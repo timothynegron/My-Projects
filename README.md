@@ -13,21 +13,17 @@ skill level as a coder and learn about new technologies.
 
 ---
 
-### `Projects`
+### `Project Rhythm Crowd`
 
-**Project Rhythm Crowd**
+<img src="assets/sign-in.png" width=125/>
+<img src="assets/global-feed.png" width=125/>
+<img src="assets/comments.png" width=125>
 
-A social media music application for independent music artist.
+A social media music platform catered to independent music artist.
 
+Java | XML | RecyclerView | Fragments | Firebase | Cloud Firestore | Firebase Authentication
 
-
-| Built With |                 |                         |
-| ---------- | --------------- | ----------------------- |
-| Java       | RecyclerView    | Fragments               |
-| XML        | Cloud Firestore | Firebase Authentication |
-
-
-**Countries Database Interface**
+### `Countries Database Interface`
 
 ---
 

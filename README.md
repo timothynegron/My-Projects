@@ -15,27 +15,27 @@ skill level as a coder and learn about new technologies.
 
 ### `Project Rhythm Crowd`
 
-A social media music platform for independent music artist.
+**A social media music platform for independent music artist.**
 
 RecyclerView | **Cloud Firestore** | **Firebase Authentication** | Java | XML |  Fragments | 
 
-Source: [Project Rhythm Crowd Repo](https://github.com/timothynegron/project-rhythm-crowd)
+* Source: [Project Rhythm Crowd Repo](https://github.com/timothynegron/project-rhythm-crowd)
 
-<img src="assets/sign-in.png" width=150/>
-<img src="assets/global-feed.png" width=150/>
-<img src="assets/comments.png" width=150>
-<img src="assets/sign-up.png" width=150/>
+<img src="assets/sign-in.png" width=160/>
+<img src="assets/global-feed.png" width=160/>
+<img src="assets/comments.png" width=160>
+<img src="assets/sign-up.png" width=160/>
 
 ---
 
 
 ### `Countries Database Interface`
 
-A WPF graphical interface that gives users access to a SQL server database containing data related to countries.
+**A WPF graphical interface that gives users access to a SQL server database containing data related to countries.**
 
 WPF | **SQL Server** | C# | XAML | DLL | OpenFileDialog
 
-Source: [Countries Database Interface Repo]()https://github.com/timothynegron/country-db-interface
+* Source: [Countries Database Interface Repo](https://github.com/timothynegron/country-db-interface)
 
 <img src="assets/wpf-image.png" />
 

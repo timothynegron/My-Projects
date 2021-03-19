@@ -15,14 +15,19 @@ skill level as a coder and learn about new technologies.
 
 ### `Project Rhythm Crowd`
 
+A social media music platform for independent music artist.
+
+Java | XML | RecyclerView | Fragments | Firebase | Cloud Firestore | Firebase Authentication
+
+Source Code: [Project Rhythm Crowd Repo](https://github.com/timothynegron/project-rhythm-crowd)
+
 <img src="assets/sign-in.png" width=125/>
 <img src="assets/global-feed.png" width=125/>
 <img src="assets/comments.png" width=125>
 <img src="assets/sign-up.png" width=125/>
 
-A social media music platform catered to independent music artist.
 
-Java | XML | RecyclerView | Fragments | Firebase | Cloud Firestore | Firebase Authentication
+
 
 ### `Countries Database Interface`
 

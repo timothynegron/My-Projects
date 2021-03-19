@@ -1,15 +1,14 @@
-## About Me
+# I'm Timothy Negron
 
-Hello, my name is **Timothy Negron**. I love to write **code**. I was born and raised in the Bronx, NY. I joined the U.S. Army after High School and served for over 6 years. During my service, I deployed to Afghanistan twice in support of Operation Enduring Freedom
-and earned the rank of Sergeant. After the Army, I pursued a  Bachelor of Science in Computer Programming and Information Systems. I graduated with Honor's and then earned a Cisco Certified Network Associate Routing and Switching certification. I'm now focusing on creating projects so that I can increase my skill level as a coder and learn about new technologies.
+I love to write **code**. It's my dream to be a part of a team that builds computer applications. This is a collection things I've made with code. Enjoy.
 
 ---
 
-## Project Rhythm Crowd
+### Project Rhythm Crowd
 
 * A social media music platform for independent music artist.
 * Source: [Repository - Project Rhythm Crowd](https://github.com/timothynegron/project-rhythm-crowd)
-* RecyclerView / **Cloud Firestore** / **Firebase Authentication** / Java / XML /  Fragments / 
+* RecyclerView / **Cloud Firestore** / **Firebase Authentication** / Java / XML /  Fragments 
 
 <div style="display: flex; justify-content: space-around">
     <img src="assets/sign-in.png" width=160/>
@@ -22,23 +21,23 @@ and earned the rank of Sergeant. After the Army, I pursued a  Bachelor of Scienc
 ---
 
 
-## Countries Database Interface
+### Countries Database Interface
 
 * A WPF graphical interface that gives users access to a SQL server database containing data related to countries.
 * Source: [Repository - Countries DB Interface](https://github.com/timothynegron/country-db-interface)
-* WPF / **SQL Server** / C# / XAML / JSON / DLL / OpenFileDialog /
+* WPF / **SQL Server** / C# / XAML / JSON / DLL / OpenFileDialog
 
 <img src="assets/wpf-image.png" width=780/>
 
 ---
 
-## Copy Monster Front Page
+### Copy Monster Front Page
 
 * Used HTML and CSS to copy Monster's entire front page.
 * Source: [Repository - Monster Front Page](https://github.com/timothynegron/copy-monster-front-page)
 * Web Link: [Copy Monster Front Page](https://timothynegron.github.io/copy-monster-front-page/)
 
-* HTML / CSS / **Flexbox** /
+* HTML / CSS / **Flexbox**
 
 <img src="assets/monster-image.png"/>
 

@@ -18,6 +18,7 @@ skill level as a coder and learn about new technologies.
 <img src="assets/sign-in.png" width=125/>
 <img src="assets/global-feed.png" width=125/>
 <img src="assets/comments.png" width=125>
+<img src="assets/sign-up.png" width=125/>
 
 A social media music platform catered to independent music artist.
 

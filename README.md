@@ -35,7 +35,7 @@ A WPF graphical interface that gives users access to a SQL server database conta
 
 WPF | **SQL Server** | C# | XAML | DLL | OpenFileDialog
 
-![](https://github.com/timothynegron/country-db-interface/blob/main/assets/country-database-interface-1.PNG)
+<img src="assets/wpf-image.png" />
 
 ---
 

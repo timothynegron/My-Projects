@@ -74,7 +74,7 @@
 
 ---
 
-### Bank App
+## Bank App
 
 **A simple android bank app for experimenting with RecyclerView and Data Singleton.**
 
@@ -82,6 +82,18 @@
 * Built With: Java / Android Studio / RecyclerView / Fragments / Data Singleton
 
 <img src="assets/bank-app.png"/>
+
+---
+
+## Dice Game
+
+**Simple dice game I made to practice integrating JavaScript to a webpage**
+
+* Source: [Repository - Dice Game]()
+* Web Link: [Dice Game](https://timothynegron.github.io/dice-game/)
+* Built With: JavaScript
+
+<img src="assets/dice-game.png"/>
 
 ---
 

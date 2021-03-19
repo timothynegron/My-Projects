@@ -3,7 +3,7 @@
 <div style="display: flex; align-items: center">
 <img src="assets/tim.jpeg" style="margin-left: 2vh" width=150/>
     <div style="width: 350px; margin-left: 2vh; font-size: 13pt">
-        I love to write code. It's my dream to be a part of a team that builds computer applications. This is a collection of stuff I've made with code.
+        I love to write code. It's my dream help others by building software. This page is a collection of stuff I've made with code.
     </div>
 </div>
 
@@ -47,3 +47,38 @@
 <img src="assets/monster-image.png"/>
 
 ---
+
+## Tic Tac Toe
+
+**I used Java to make a Tic Tac Toe game.**
+
+* Source: [Repository - Tic Tac Toe]()
+* Built With: Java / JFrame / JPanel
+
+<img src="assets/ttt.png"/>
+
+---
+
+## Twitter Gridder
+
+**I used CSS Grid to re-create the SpaceX Twitter profile page.**
+
+* Source: [Repository - Twitter Gridder](https://github.com/timothynegron/twitter-gridder)
+* Web Link: [Twitter Gridder](https://timothynegron.github.io/twitter-gridder/)
+* Built With: **CSS Grid** / HTML5 / CSS3
+
+<div style="display: block;margin-left: auto;margin-right: auto; width: 50%;">
+    <img src="assets/twitter-image.png" width=200 style="align-self: center">
+</div>
+
+
+---
+
+## Card Matching
+
+**A card matching game built with Java.**
+
+* Source: [Repository -]
+* Built With:
+
+<!-- <img src="assets/card-image.png>"/> -->

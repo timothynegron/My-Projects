@@ -78,12 +78,14 @@
 
 ## Country Dataset Reader Writer
 
-**A console application built with C#. Displays a menu to the user. The user can open a JSON file. The data from the JSON file gets stored in memory. The user can then view the data, save it to another JSON file, or save it to a XML file.**
+**A console application where the user can open a JSON file, view the data, save it to another JSON file or XML file.**
 
 * Source: [Repository - Country Dataset Reader Writer](https://github.com/timothynegron/country-dataset-reader-writer)
 * Built With: C# / DLL / **JSON Serializer and Deserializer**
 
-<img src="assets/menu.png"/>
+<div style="display: block; margin-left: auto;margin-right: auto; width: 80%;">
+    <img src="assets/menu.png" width=700/>
+</div>
 
 ---
 

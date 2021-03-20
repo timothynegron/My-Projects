@@ -95,7 +95,7 @@
 * Web Link: [Dice Game](https://timothynegron.github.io/dice-game/)
 * Built With: JavaScript
 
-<img src="assets/dice-game.png"/>
+<img src="assets/dice-game-1.png"/>
 
 ---
 

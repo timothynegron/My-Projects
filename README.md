@@ -3,7 +3,7 @@
 <div style="display: flex; align-items: center">
 <img src="assets/tim.jpeg" style="margin-left: 2vh" width=150/>
     <div style="width: 350px; margin-left: 2vh; font-size: 13pt">
-        I love to write code. It's my dream help others by building software. This page is a collection of stuff I've made with code.
+        I love to write code. This page is a collection of stuff I've made with code.
     </div>
 </div>
 
@@ -16,13 +16,11 @@
 * Source: [Repository - Project Rhythm Crowd](https://github.com/timothynegron/project-rhythm-crowd)
 * Built With: RecyclerView / **Cloud Firestore** / **Firebase Authentication** / Java / XML /  Fragments 
 
-<!-- style="display: flex; justify-content: space-around" -->
 
-<div style="display: block; margin-left: auto;margin-right: auto; width: 68%;">
-    <img src="assets/sign-in.png" width=160/>
-    <img src="assets/global-feed.png" width=160/>
-    <img src="assets/comments.png" width=160>
-    <!-- <img src="assets/sign-up.png" width=160/> -->
+<div style="display: block; margin-left: auto;margin-right: auto; width: 72%;">
+    <img src="assets/sign-in.png" width=170/>
+    <img src="assets/global-feed.png" width=170/>
+    <img src="assets/comments.png" width=170>
 </div>
 
 
@@ -57,7 +55,9 @@
 * Source: [Repository - Country JSON Interface](https://github.com/timothynegron/country-json-interface)
 * Built With: C# / XAML / WPF / DLL / ListBox / **JSON Serializer and Deserializer** / OpenFileDialog
 
-<img src="assets/wpf-2-image.png"/>
+<div style="display: block; margin-left: auto;margin-right: auto; width: 68%;">
+    <img src="assets/wpf-2-image.png"/>
+</div>
 
 ---
 
@@ -95,7 +95,9 @@
 * Web Link: [Dice Game](https://timothynegron.github.io/dice-game/)
 * Built With: JavaScript
 
-<img src="assets/dice-game-1.png"/>
+<div style="display: block; margin-left: auto;margin-right: auto; width: 68%;">
+    <img src="assets/dice-game-1.png"/>
+</div>
 
 ---
 
@@ -114,10 +116,18 @@
 
 **A card matching game built with Java.**
 
-* Source: [Repository -]
-* Built With:
+* Source: [Repository - Card Matching](https://github.com/timothynegron/card-matching)
+* Built With: Java / JFrame / JPanel
 
-<!-- <img src="assets/card-image.png>"/> -->
+<img src="assets/card-match.png"/>
 
 ---
+
+## School Personnel Portal
+
+* Source: [Repository - School Personnel Portal](https://github.com/timothynegron/school-personnel-portal)
+* Built With: Java / JFrame / JPanel
+
+<img src="assets/spp-image.png"/>
+
 

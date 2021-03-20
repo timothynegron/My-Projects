@@ -3,7 +3,7 @@
 <div style="display: flex; align-items: center">
 <img src="assets/tim.jpeg" style="margin-left: 2vh" width=150/>
     <div style="width: 350px; margin-left: 2vh; font-size: 13pt">
-        I love to write code. This page is a collection of stuff I've made with code.
+        I love to write code. This website is here to share some of the stuff I've made with code.
     </div>
 </div>
 
@@ -76,6 +76,17 @@
 
 ---
 
+## Country Dataset Reader Writer
+
+**A console application built with C#. Displays a menu to the user. The user can open a JSON file. The data from the JSON file gets stored in memory. The user can then view the data, save it to another JSON file, or save it to a XML file.**
+
+* Source: [Repository - Country Dataset Reader Writer](https://github.com/timothynegron/country-dataset-reader-writer)
+* Built With: C# / DLL / **JSON Serializer and Deserializer**
+
+<img src="assets/menu.png"/>
+
+---
+
 ## Bank App
 
 **A simple android bank app for experimenting with RecyclerView and Data Singleton.**
@@ -103,7 +114,7 @@
 
 ## Tic Tac Toe
 
-**I used Java to make a Tic Tac Toe game.**
+**A Tic Tac Toe game built with Java.**
 
 * Source: [Repository - Tic Tac Toe]()
 * Built With: Java / JFrame / JPanel
@@ -124,6 +135,8 @@
 ---
 
 ## School Personnel Portal
+
+**A School Personnel data management portal I built with Java.**
 
 * Source: [Repository - School Personnel Portal](https://github.com/timothynegron/school-personnel-portal)
 * Built With: Java / JFrame / JPanel
